@@ -4,7 +4,7 @@
 
 ## ABOUT
 
-Web application for drug management in a med kit.
+Web application for drug management in a medical kit.
 
 
 ## FUNCTIONALITIES
