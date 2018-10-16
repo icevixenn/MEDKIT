@@ -11,10 +11,10 @@ Web application for drug management in a medical kit.
 
 -	registration,
 -	login,
--	sharing med kit with other users and vice versa, 
+-	sharing medical kit with other users and vice versa, 
 -	adding drugs selected from database (includes: number of tables in a package, expiry date, price), 
 -	using drugs (quantity and date), 
--	removing drugs from med kit, 
+-	removing drugs from medical kit, 
 -	viewing various statistics.
 
 
